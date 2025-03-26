@@ -51,7 +51,10 @@ This applies to anyone installing Windows Server 2025 with the Desktop Experienc
   - `F12` (Dell, Lenovo, Acer)  
   - `F9` (HP)  
   - `ESC` or `F8` (ASUS)  
-- If you miss it, restart and try again.  
+- If you miss it, restart and try again.
+
+![boot menu](images/9.png)
+
 - In the boot menu, select the **UEFI USB** (your USB drive).
 
 ![press any key](images/4.png)
