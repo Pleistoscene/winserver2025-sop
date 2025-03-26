@@ -18,12 +18,23 @@ USB: A flash drive that has the OS ISO on it and is used to install the system.
 Desktop Experience: A version of Windows Server that includes a full GUI (graphical user interface), kind of like what you'd see in regular Windows.
 
 Procedure steps
-Part 1
+Part 1: Installing Windows Server 2025
+
 Step 1: Download the Windows Server 2025 ISO from the official Microsoft website.
-Step 2: Create a bootable USB drive: Download and use Rufus, Select the Windows Server 2025 ISO file and your USB drive, Use default settings for Windows installation.
-Step 3: Insert the USB drive and boot the system: Soon as system boots up youll see a press any key, press any key to enter the windows installation.
-Step 4: Install Windows Server 2025: Choose language and select Desktop Experience, Select "Custom Install", Pick your main hard drive and wait for installation to complete
-Part 2
-Step 5:
+Step 2: Create a bootable USB drive: Download and run Rufus, Select the Windows Server 2025 ISO file and your USB drive, Use the default settings for a Windows installation.
+Step 3: Insert the USB drive and boot the system: As the system starts, you’ll see “Press any key to boot from USB...”, Press any key to begin the Windows installation.
+Step 4: Install Windows Server 2025: Choose your language and select Desktop Experience, Click on Custom Install, Pick your main hard drive and let the installation complete.
+Step 5: Set the Administrator password when prompted and log in to confirm install was success.
+
+Part 2: Installing Windows Server 2025
+
 Resources
-[Include any resources that can help the reader execute the procedure safely and effectively.]
+Microsoft Windows Server 2025 ISO
+Rufus
+System meeting minimum requirements for Server 2025
+
+Minimum System Requirements
+Processor: 1.4 GHz 64-bit processor (compatible with x64 instruction set, supports NX and DEP, CMPXCHG16b, LAHF/SAHF, and PrefetchW)
+RAM: 2 GB for Server Desktop Experience
+Disk Space: Minimum 32 GB
+Network: Ethernet adapter capable of at least 1 Gbps throughput
