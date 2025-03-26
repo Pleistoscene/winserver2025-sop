@@ -135,7 +135,6 @@ Windows Server 2025 is now prepared and ready for further configuration, such as
 ## Resources  
 - [Microsoft Windows Server 2025 ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025)  
 - [Rufus](https://rufus.ie/en/)  
-- A system that meets the minimum requirements for Windows Server 2025
 
 ---
 
