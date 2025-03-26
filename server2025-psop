@@ -18,11 +18,12 @@ USB: A flash drive that has the OS ISO on it and is used to install the system.
 Desktop Experience: A version of Windows Server that includes a full GUI (graphical user interface), kind of like what you'd see in regular Windows.
 
 Procedure steps
-[Describe each step of the procedure and mention any known hazards or difficulties.]
-Step 1:
-Step 2:
-Step 3:
-Step 4:
+Part 1
+Step 1: Download the Windows Server 2025 ISO from the official Microsoft website.
+Step 2: Create a bootable USB drive: Download and use Rufus, Select the Windows Server 2025 ISO file and your USB drive, Use default settings for Windows installation.
+Step 3: Insert the USB drive and boot the system: Soon as system boots up youll see a press any key, press any key to enter the windows installation.
+Step 4: Install Windows Server 2025: Choose language and select Desktop Experience, Select "Custom Install", Pick your main hard drive and wait for installation to complete
+Part 2
 Step 5:
 Resources
 [Include any resources that can help the reader execute the procedure safely and effectively.]
