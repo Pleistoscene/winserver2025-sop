@@ -55,8 +55,9 @@ Download and run **Rufus**.
 - In the boot menu, select the **UEFI USB** (your USB drive).
 
 ![press any key](images/4.png)
-When prompted with “Press any key to boot from USB...”, press any key. 
-Windows Server Setup will begin.
+
+- When prompted with “Press any key to boot from USB...”, press any key. 
+- Windows Server Setup will begin.
 
 ### Step 4: Install Windows Server 2025  
 - Choose your language and time settings, then click **Next**.  
