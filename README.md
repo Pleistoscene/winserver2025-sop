@@ -9,6 +9,31 @@
 
 ---
 
+## Approval
+
+| Name   | Role     | Date Approved |
+|--------|----------|----------------|
+| Felix  | Approver | 03/26/2025     |
+
+---
+
+## Revision History
+
+| Version | Date       | Description                   | Author              |
+|---------|------------|-------------------------------|---------------------|
+| 1.0     | 03/26/2025 | Initial release of the SOP     | Aaron Queskekapow   |
+
+---
+
+## Accountability Matrix
+
+| Role     | Name              | Responsibility                  |
+|----------|-------------------|----------------------------------|
+| Author   | Aaron Queskekapow | Writing and structuring the SOP |
+| Approver | Felix             | Review and approval             |
+
+---
+
 ## Purpose  
 This SOP is part of my assignment and demonstrates how to install the Desktop Experience version of Windows Server 2025 (GUI).
 
