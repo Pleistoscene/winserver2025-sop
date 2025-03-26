@@ -112,9 +112,15 @@ This applies to anyone installing Windows Server 2025 with the Desktop Experienc
 ![Confirm](images/8.png)
 
 - Log in to confirm the installation was successful.
+
+![Server Manager](images/10.png)
+
 - Open **Server Manager**.  
 - Click on **Local Server** in the left-hand menu.  
-- Next to **Computer Name**, click the current name (e.g., `WIN-6OG0DUBK8TD`).  
+- Next to **Computer Name**, click the current name (e.g., `WIN-6OG0DUBK8TD`).
+
+![Server Manager](images/11.png)
+
 - Click the **Change** button.  
 - Enter your new hostname and click **OK**.  
 - Restart the server when prompted to apply the change.
