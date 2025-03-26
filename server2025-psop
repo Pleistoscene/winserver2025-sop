@@ -1,4 +1,4 @@
-SOP: Preparing Windows Server 2025 Installation
+SOP: Preparing Windows Server 2025 Installation GUI
 College: Manitoba Institute of Trades and Technology (MITT)  
 Course: Network and System Administration
 Version: 1.0  
@@ -7,11 +7,16 @@ Approved By: Felix
 Date: 03/26/2025  
 
 Purpose
-[Briefly describe the reason you are writing this SOP and any broad information about the procedure.]
+This SOP is for my assignment to show how to install the desktop version of Windows Server 2025 GUI.
+
 Application
-[Describe who this document applies to and under what circumstances.]
+This applies to anybody who are installing Windows Server 2025 GUI.
+
 Definitions
-[Define any unknown words or acronyms that can help the reader understand this SOP.]
+ISO: A file that contains an image of an operating system used to install it on a computer or virtual machine.
+USB: A flash drive that has the OS ISO on it and is used to install the system.
+Desktop Experience: A version of Windows Server that includes a full GUI (graphical user interface), kind of like what you'd see in regular Windows.
+
 Procedure steps
 [Describe each step of the procedure and mention any known hazards or difficulties.]
 Step 1:
