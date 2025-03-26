@@ -33,12 +33,12 @@ This applies to anyone installing Windows Server 2025 with the Desktop Experienc
 ![Download ISO](images/1.png)
 ![Download ISO](images/1-2.png)
 
-Download the Windows Server 2025 ISO from the official Microsoft website.
+- Download the Windows Server 2025 ISO from the official Microsoft website.
 
 ### Step 2: Create a Bootable USB Drive
 ![Download Rufus](images/2.png)
 
-Download and run **Rufus**.
+- Download and run **Rufus**.
 
 ![Download Rufus](images/3.png)
 
@@ -63,13 +63,25 @@ Download and run **Rufus**.
 - Choose your language and time settings, then click **Next**.  
 - Select your keyboard layout, then click **Next**.  
 - Click **Install Now**.  
-- Check Install Windows Server and "I agree.." **Next**.  
-- Choose **Windows Server 2025 Standard Evaluation (Desktop Experience)** and click **Next**.  
-- Choose your disk (usually **Disk 0** or the largest available drive), then click **Next**.  
-- The installation will begin—wait for it to complete.
+- Check Install Windows Server and "I agree.." **Next**.
 
-### Step 5: Final Setup  
-- Set the **Administrator** password when prompted and click **Finish**.  
+![Windows Server 2025 Starndard](images/5.png)
+  
+- Choose **Windows Server 2025 Standard Evaluation (Desktop Experience)** and click **Next**.
+- Choose your disk (usually **Disk 0** or the largest available drive), then click **Next**.
+
+![Installation](images/6.png)
+
+- Click Install and Wait for installation to complete.
+
+### Step 5: Final Setup
+
+![Administration](images/7.png)
+
+- Set the **Administrator** password when prompted and click **Finish**.
+
+![Confirm](images/8.png)
+
 - Log in to confirm the installation was successful.
 
 ---
