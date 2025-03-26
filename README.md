@@ -32,12 +32,16 @@ This applies to anyone installing Windows Server 2025 with the Desktop Experienc
 ### Step 1: Download the ISO
 ![Download ISO](images/1.png)
 ![Download ISO](images/1-2.png)
+
 Download the Windows Server 2025 ISO from the official Microsoft website.
 
 ### Step 2: Create a Bootable USB Drive
 ![Download Rufus](images/2.png)
+
 Download and run **Rufus**.
+
 ![Download Rufus](images/3.png)
+
 - Select the Windows Server 2025 ISO file and your USB drive.  
 - Use the default settings for a Windows installation.  
 - Click **Start** and wait for the process to complete.
