@@ -22,13 +22,16 @@ This applies to anyone installing Windows Server 2025 with the Desktop Experienc
 ## Definitions  
 - **ISO:** A file that contains an image of an operating system, used to install it on a computer or virtual machine.  
 - **USB:** A flash drive that contains the OS ISO and is used to install the system.  
-- **Desktop Experience:** A version of Windows Server that includes a full graphical user interface (GUI), similar to a standard Windows environment.
+- **Desktop Experience:** A version of Windows Server that includes a full graphical user interface (GUI), similar to a standard Windows environment.  
+- **Disk:** A physical storage device (such as an SSD or HDD) used to install and store the operating system and files.
 
 ---
 
 ## Procedure Steps
 
-### Step 1: Download the ISO  
+### Step 1: Download the ISO
+![Download ISO](images/1.png)
+![Download ISO](images/2.png)
 Download the Windows Server 2025 ISO from the official Microsoft website.
 
 ### Step 2: Create a Bootable USB Drive  
@@ -48,12 +51,17 @@ Download the Windows Server 2025 ISO from the official Microsoft website.
 - Windows Server Setup will begin.
 
 ### Step 4: Install Windows Server 2025  
-- Choose your language and select **Desktop Experience**.  
-- Click on **Custom Install**.  
-- Select your main hard drive and wait for installation to complete.
+- Choose your language and time settings, then click **Next**.  
+- Select your keyboard layout, then click **Next**.  
+- Click **Install Now**.  
+- Check Install Windows Server and "I agree.." **Next**.  
+- Choose **Windows Server 2025 Standard Evaluation (Desktop Experience)** and click **Next**.  
+- Choose your disk (usually **Disk 0** or the largest available drive), then click **Next**.  
+- The installation will begin—wait for it to complete.
 
 ### Step 5: Final Setup  
-Set the **Administrator** password when prompted and log in to confirm the installation was successful.
+- Set the **Administrator** password when prompted and click **Finish**.  
+- Log in to confirm the installation was successful.
 
 ---
 
