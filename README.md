@@ -49,6 +49,7 @@ This applies to anyone installing Windows Server 2025 with the Desktop Experienc
 - **USB:** A flash drive that contains the OS ISO and is used to install the system.  
 - **Desktop Experience:** A version of Windows Server that includes a full graphical user interface (GUI), similar to a standard Windows environment.  
 - **Disk:** A physical storage device (such as an SSD or HDD) used to install and store the operating system and files.
+- **Hostname:** The name assigned to a computer on a network, used to identify it within that network.
 
 ---
 
@@ -111,6 +112,17 @@ This applies to anyone installing Windows Server 2025 with the Desktop Experienc
 ![Confirm](images/8.png)
 
 - Log in to confirm the installation was successful.
+- Open **Server Manager**.  
+- Click on **Local Server** in the left-hand menu.  
+- Next to **Computer Name**, click the current name (e.g., `WIN-6OG0DUBK8TD`).  
+- Click the **Change** button.  
+- Enter your new hostname and click **OK**.  
+- Restart the server when prompted to apply the change.
+
+---
+
+### Completion
+Windows Server 2025 is now prepared and ready for further configuration, such as domain setup, role installation, or network services.
 
 ---
 
